@@ -1,6 +1,3 @@
-Certainly! I'd be happy to help you create a README for your hand gesture recognition system using Google MediaPipe. Let's break it down step by step:
-
----
 
 # Hand Gesture Recognition System with MediaPipe
 
